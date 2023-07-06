@@ -38,7 +38,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Pre-requisites">Pre-requisites</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-How to Run the Script">How to Run the Script</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-How-to-Run-the-Script">How to Run the Script</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/jordanistan" target="_blank">Author</a>
 </p>
