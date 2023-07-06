@@ -48,7 +48,7 @@ def load_customers():
     """
     return json.loads(data)
 
-def customers_to_renew(customers, years=1):
+def customers_to_renew(customers, years=5):
     now = datetime.datetime.utcnow()
     renewal_list = []
     for customer in customers["customers"]:
