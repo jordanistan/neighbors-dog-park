@@ -50,7 +50,7 @@
 
 # Square Customer Renewal Script
 
-This Python script loads a list of customers, identifies customers who've been registered for five or more years, and exports a CSV file with a list of the 20 oldest customers' details for renewal notification purposes.
+This Python script loads a list of customers, identifies customers who've been registered for one or more years, and exports a CSV file with a list of the 20 oldest customers' details for renewal notification purposes.
 
 ![](neighbors-members-renew-list.gif)
 ## Features
