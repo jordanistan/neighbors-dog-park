@@ -57,7 +57,7 @@ This Python script loads a list of customers, identifies customers who've been r
 
 - Connects to the Square API using a provided access token.
 - Loads a JSON string containing customer data.
-- Determines which customers need renewal based on a threshold (default 5 years).
+- Determines which customers need renewal based on a threshold (default 1 years).
 - Writes customer details to a CSV file (`renewal_list.csv`).
 
 ## Pre-requisites
