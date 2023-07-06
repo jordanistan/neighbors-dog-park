@@ -50,6 +50,9 @@
 
 This Python script loads a list of customers, identifies customers who've been registered for five or more years, and exports a CSV file with a list of the 20 oldest customers' details for renewal notification purposes.
 
+[![Watch the video](https://images.squarespace-cdn.com/content/v1/629e6c49c6d4cb5b1d5808af/a578b412-bcea-47f6-a078-ed6f670adc86/A4DC5FE9-4813-4B28-B7F1-06E538E2334F.png?format=1500w)](neighbors-members-renew-list.mp4)
+
+
 ## Features
 
 - Connects to the Square API using a provided access token.
