@@ -53,14 +53,14 @@
 This Python script loads a list of customers, identifies customers who've been registered for five or more years, and exports a CSV file with a list of the 20 oldest customers' details for renewal notification purposes.
 
 ![](neighbors-members-renew-list.gif)
-## Features
+## :sparkles: Features
 
 - Connects to the Square API using a provided access token.
 - Loads a JSON string containing customer data.
 - Determines which customers need renewal based on a threshold (default 5 years).
 - Writes customer details to a CSV file (`renewal_list.csv`).
 
-## Pre-requisites
+## :white_check_mark: Pre-requisites
 
 - You need Python 3.7+ installed. You can download it from [here](https://www.python.org/downloads/).
 - Install the `squareup` package. You can install it using pip:
@@ -73,7 +73,7 @@ This Python script loads a list of customers, identifies customers who've been r
     ```
     Replace `'your_square_access_token'` with your actual Square access token.
 
-## How to Run the Script
+## :checkered_flag: How to Run the Script
 
 1. Clone this repository to your local machine.
     ```sh
